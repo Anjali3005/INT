@@ -26,6 +26,7 @@ public class Face1 {
 		Assert.assertTrue(false);
 		System.out.println(Title + "  Hey Mark I m on Facebook");
 		System.out.println("test verified");
+		System.out.println("javatest success");
 		driver.close();
 		}
 
