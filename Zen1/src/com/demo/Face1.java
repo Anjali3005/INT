@@ -25,6 +25,7 @@ public class Face1 {
 		String Title=driver.getTitle();
 		Assert.assertTrue(false);
 		System.out.println(Title + "  Hey Mark I m on Facebook");
+		System.out.println("test verified");
 		driver.close();
 		}
 
